@@ -62,7 +62,6 @@ public class OsmProcessor {
 
             List<Node> nodes = new ArrayList<>();
 
-            int count = 0;
             while (reader.hasNext()) {
                 reader.next();
 
@@ -76,6 +75,8 @@ public class OsmProcessor {
                     nodes.clear();
                 }
             }
+
+            nodeService.insertNodes(nodes);
 
             return;
         } catch (JAXBException e) {
