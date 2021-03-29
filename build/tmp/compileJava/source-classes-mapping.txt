@@ -1,0 +1,55 @@
+ru/nsu/ccfit/khudyakov/model/Member.java
+ ru.nsu.ccfit.khudyakov.model.Member
+ru/nsu/ccfit/khudyakov/db/dao/tags/SimpleQueryTagDao.java
+ ru.nsu.ccfit.khudyakov.db.dao.tags.SimpleQueryTagDao
+ru/nsu/ccfit/khudyakov/model/Relation.java
+ ru.nsu.ccfit.khudyakov.model.Relation
+ru/nsu/ccfit/khudyakov/model/Node.java
+ ru.nsu.ccfit.khudyakov.model.Node
+ru/nsu/ccfit/khudyakov/db/dao/tags/PreparedQueryTagDao.java
+ ru.nsu.ccfit.khudyakov.db.dao.tags.PreparedQueryTagDao
+ru/nsu/ccfit/khudyakov/db/dao/nodes/NodeDao.java
+ ru.nsu.ccfit.khudyakov.db.dao.nodes.NodeDao
+ru/nsu/ccfit/khudyakov/db/dao/Dao.java
+ ru.nsu.ccfit.khudyakov.db.dao.Dao
+ru/nsu/ccfit/khudyakov/model/Osm.java
+ ru.nsu.ccfit.khudyakov.model.Osm
+ru/nsu/ccfit/khudyakov/input/InputParser.java
+ ru.nsu.ccfit.khudyakov.input.InputParser
+ru/nsu/ccfit/khudyakov/db/DbManager.java
+ ru.nsu.ccfit.khudyakov.db.DbManager
+ru/nsu/ccfit/khudyakov/services/NodeService.java
+ ru.nsu.ccfit.khudyakov.services.NodeService
+ru/nsu/ccfit/khudyakov/input/InputContext.java
+ ru.nsu.ccfit.khudyakov.input.InputContext
+ru/nsu/ccfit/khudyakov/model/Bounds.java
+ ru.nsu.ccfit.khudyakov.model.Bounds
+ru/nsu/ccfit/khudyakov/model/package-info.java
+ ru.nsu.ccfit.khudyakov.model.package-info
+ru/nsu/ccfit/khudyakov/model/Tag.java
+ ru.nsu.ccfit.khudyakov.model.Tag
+ru/nsu/ccfit/khudyakov/db/dao/tags/entitiy/TagEntity.java
+ ru.nsu.ccfit.khudyakov.db.dao.tags.entitiy.TagEntity
+ru/nsu/ccfit/khudyakov/db/dao/tags/TagDao.java
+ ru.nsu.ccfit.khudyakov.db.dao.tags.TagDao
+ru/nsu/ccfit/khudyakov/model/ObjectFactory.java
+ ru.nsu.ccfit.khudyakov.model.ObjectFactory
+ru/nsu/ccfit/khudyakov/db/ConnectionDataSource.java
+ ru.nsu.ccfit.khudyakov.db.ConnectionDataSource
+ru/nsu/ccfit/khudyakov/db/dao/tags/BatchQueryTagDao.java
+ ru.nsu.ccfit.khudyakov.db.dao.tags.BatchQueryTagDao
+ru/nsu/ccfit/khudyakov/model/Way.java
+ ru.nsu.ccfit.khudyakov.model.Way
+ru/nsu/ccfit/khudyakov/model/Nd.java
+ ru.nsu.ccfit.khudyakov.model.Nd
+ru/nsu/ccfit/khudyakov/db/dao/nodes/PreparedQueryNodeDao.java
+ ru.nsu.ccfit.khudyakov.db.dao.nodes.PreparedQueryNodeDao
+ru/nsu/ccfit/khudyakov/db/dao/nodes/BatchQueryNodeDao.java
+ ru.nsu.ccfit.khudyakov.db.dao.nodes.BatchQueryNodeDao
+ru/nsu/ccfit/khudyakov/OsmProcessor.java
+ ru.nsu.ccfit.khudyakov.OsmProcessor
+ ru.nsu.ccfit.khudyakov.OsmProcessor$XsiTypeReader
+ru/nsu/ccfit/khudyakov/db/dao/nodes/SimpleQueryNodeDao.java
+ ru.nsu.ccfit.khudyakov.db.dao.nodes.SimpleQueryNodeDao
+ru/nsu/ccfit/khudyakov/Main.java
+ ru.nsu.ccfit.khudyakov.Main
